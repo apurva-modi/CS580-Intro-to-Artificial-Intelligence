@@ -1,5 +1,5 @@
 # Project - Kaggle’s past challenge “Traveling Santa 2018 - Prime Paths.”
-Autors - Apurva Modi, Anoop Reddy Ananthula, Herambeshwar Pendyala 
+Authors - Apurva Modi, Anoop Reddy Ananthula, Herambeshwar Pendyala 
 ---
 
 - [Travelling Santa 2018](https://www.kaggle.com/c/traveling-santa-2018-prime-paths/).
